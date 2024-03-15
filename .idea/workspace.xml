@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30c27be-17d2-4421-9d8e-0f8c3278e2ef" name="Changes" comment="ejercicio del zoologico antes de">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/GenericsInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritance/WithNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapdemo/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/upperbound/UpperBoundWildCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zoo/Eats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/zoo/Runs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Cage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Cage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Leon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Leon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Mono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Mono.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/zoo/Zoo.java" afterDir="false" />
-    </list>
+    <list default="true" id="d30c27be-17d2-4421-9d8e-0f8c3278e2ef" name="Changes" comment="ejercicio del zoologico antes de" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,6 +137,7 @@
       <workItem from="1709731336472" duration="8137000" />
       <workItem from="1710330258055" duration="981000" />
       <workItem from="1710420666890" duration="4910000" />
+      <workItem from="1710436472242" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio del zoologico antes de">
       <created>1709560377276</created>
@@ -159,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709560377276</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ejercicio del zoologico antes de">
+      <created>1710436509352</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710436509352</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
